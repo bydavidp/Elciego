@@ -1,0 +1,30 @@
+CAM1A;Canon;EOS R6 Mark II;24.2 MP;Si;No;Camara DSLR
+LEN2B;Lente Zoom Estandar;24mm;70mm;f/2.8;No;Lente
+ILU3C;Kit Luz Continua;Luz Continua;150W;5600K;No;Equipo de Iluminacion
+CAM4D;Nikon;Z7 II;45.7 MP;Si;No;Camara DSLR
+LEN5E;Lente Gran Angular;14mm;24mm;f/2.8;No;Lente
+ILU6F;Flash de Estudio 600;Flash de Estudio;600W;5600K;No;Equipo de Iluminacion
+CAM7G;Sony;A7 IV;33 MP;Si;Si;Camara DSLR
+LEN8H;Lente Teleobjetivo;70mm;200mm;f/2.8;No;Lente
+ILU9I;Panel LED Bicolor;Panel LED;100W;3200K–5600K;No;Equipo de Iluminacion
+CAM1J;Fujifilm;X-T5;40 MP;Si;No;Camara DSLR
+LEN2K;Lente Prime Retrato;50mm;50mm;f/1.4;Si;Lente
+ILU3L;Softbox Octogonal 120;Luz Continua;200W;5500K;No;Equipo de Iluminacion
+CAM4M;Canon;EOS 90D;32.5 MP;No;No;Camara DSLR
+LEN5N;Lente Macro;90mm;90mm;f/2.8;Si;Lente
+ILU6O;Kit Strobist Portatil;Flash Portatil;80W;5600K;No;Equipo de Iluminacion
+CAM7P;Nikon;D750;24.3 MP;No;No;Camara DSLR
+LEN8Q;Lente Ojo de Pez;8mm;8mm;f/3.5;No;Lente
+ILU9R;Reflector 5 en 1;Reflector;N/A;Variable;No;Equipo de Iluminacion
+CAM1S;Sony;A6400;24.2 MP;Si;No;Camara DSLR
+LEN2T;Lente Zoom Todo Terreno;18mm;135mm;f/3.5–5.6;Si;Lente
+ILU3U;Par de Cabezas Monolight;Flash de Estudio;400W;5600K;No;Equipo de Iluminacion
+CAM4V;Panasonic;Lumix S5 II;24 MP;Si;No;Camara DSLR
+LEN5W;Lente Ultra Gran Angular;10mm;20mm;f/4;No;Lente
+ILU6X;Luz de Fondo RGB;Panel LED;60W;2700K–7500K;No;Equipo de Iluminacion
+CAM7Y;Canon;EOS R5;45 MP;Si;No;Camara DSLR
+LEN8Z;Lente Prime Cine;35mm;35mm;f/1.5;Si;Lente
+ILU9A;Kit Luz de Ventana;Luz Continua;100W;5400K;No;Equipo de Iluminacion
+CAM1B;Nikon;Z6 II;24.5 MP;Si;Si;Camara DSLR
+LEN2C;Lente Tele Zoom Ligero;55mm;250mm;f/4–5.6;No;Lente
+ILU3D;Anillo de Luz LED;Ring Light;40W;5500K;No;Equipo de Iluminacion
